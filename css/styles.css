@@ -170,6 +170,8 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   border: 1px solid transparent;
+  background-color: #f5f4fa;
+  border-radius: 4px;
 }
 .button-nav:hover,
 .button-nav:focus {
