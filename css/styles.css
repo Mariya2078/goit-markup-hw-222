@@ -181,4 +181,8 @@ body {
   letter-spacing: 0.03em;
   color: var(--accent-second-color);
 }
+.portfolio-shadow {
+  outline: none;
+}
+
 /*-----------------------------PORTFOLIO  END-------------------------------------------*/
